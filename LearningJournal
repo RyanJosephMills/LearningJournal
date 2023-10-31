@@ -1,7 +1,7 @@
 # 3/10/2023
 
 Problem
-When first starting this semester, I was immediately struck with a learning problem as I had never used Unity when starting from scratch as in year 1 we had mostly been given a project that had gotten most of the simple parts out the way and didn’t require us to do anything and when I was at collage for the two years of my course I never used Unity as my course would only ever use Unreal engine.
+When first starting this semester, I was immediately struck with a learning problem as I had never used Unity when starting from scratch in year 1 we had mostly been given a project that had gotten most of the simple parts out the way and didn’t require us to do anything and when I was at collage for the two years of my course I never used Unity as my course would only ever use Unreal engine.
 Solution
 The only way that I was able to solve this problem was that I had to go onto YouTube and the official Unity website and I had to learn the basic tools on how to start a Unity project for example coding the basic coding of the characters movement and the  ability to make the player jump and final adding gravity to the player.
 
@@ -13,6 +13,10 @@ A problem that I have come across in making my first bit of code for my characte
 ### 17/10/2023
 
 Problem
-I am struggling to come up with a decent idea in the 3D style of game that I can do within the time limit. This is because I have very little knowledge of unity as a whole so I am finding 3D game designs much harder
+I am struggling to come up with a decent idea in the 3D style of game that I can do within the time limit. This is because I have very little knowledge of Unity as a whole so I am finding 3D game designs much harder
 Solution
-A way that I am going to counter this is instead of going into a 3D design, I will go into the 2D design and just make a game like that, as it will be much easier and simpler to think about
+A way that I am going to counter this is instead of going into a 3D design, I will go into the 2D design and make a game like that, as it will be much easier and simpler to think about
+
+#### 31/10/2023
+
+I learnt how to code a character to move left to right inside Unity using the 2D game design and also how to allow the character to jump up and down
