@@ -1,9 +1,10 @@
 # 3/10/2023
 
 Problem
-When first starting this semester, I was immediately struck with a learning problem as I had never used Unity when starting from scratch in year 1. We had mostly been given a project that had gotten most of the simple parts out of the way and didn’t require us to do anything, and when I was at college for the two years of my course, I never used Unity as my course would only ever use Unreal engine.
+When first starting this semester, I was immediately struck with a learning problem as this was the first time I had used Unity when starting from scratch in year 1. We had mostly been given a project that had gotten most of the simple parts out of the way and didn’t require us to do anything, and when I was at college for the two years of my course, I never used Unity as my course would only ever use Unreal engine.
+
 Solution
-The only way that I was able to solve this problem was to go onto YouTube and the official Unity website, and I had to learn the basic tools on how to start a Unity project for example coding the basic coding of the character's movement and the  ability to make the player jump and final adding gravity to the player.
+The only way that I was able to solve this problem was to go onto YouTube and the official Unity website. I had to learn the basic tools on how to start a Unity project for example coding the basic coding of the character's movement and the  ability to make the player jump and final adding gravity to the player.
 
 # 10/10/2023
 
@@ -12,23 +13,28 @@ A problem that I have come across in making my first bit of code for my characte
 
 #13/10/2023
 
-I hadn't had much experience in making Video's using OBS on my laptop before so I had to follow tutorials online in order to get more experience in how to make videos on OBS
+I had yet to gain experience in making videos using OBS on my laptop, so I had to follow tutorials online to get more experience in how to make videos on OBS.
 
 # 17/10/2023
 
 Problem
-I am struggling to develop a decent idea in the 3D style of game that I can do within the time limit. This is because I have very little knowledge of Unity as a whole so I am finding 3D game designs much harder
+I am still trying to develop a decent idea in the 3D style of game that I can do within the time limit. This is because I have very little knowledge of Unity as a whole so I am finding 3D game designs much harder
+
 Solution
-A way that I am going to counter this is instead of going into a 3D design, I will go into the 2D design and make a game like that, as it will be much easier and simpler to think about
+I am going to counter this instead of going into a 3D design. I will go into the 2D design and make a game like that, as it will be much easier and simpler to think about
 
 # 31/10/2023
 
-I learnt how to code a character to move left to right using A and D inside Unity using the 2D game design
+I learnt how to code a character to move left to right using A and D inside Unity using the 2D game design.
 
 # 31/10/2023
 
-I learnt how to code the player so that when you click on the W key, the player will jump up 
+I learnt how to code the player so that when you click on the W key, the player will jump up.
 
-# 01/11/2023
+# 03/11/2023
 
-I learnt how to make an opening and closing mechanic inside of unity to use inside of my game
+I learnt how to make an opening and closing mechanic inside of Unity to use inside of my game.
+
+# 05/11/2023
+
+I used a tutorial to create a death barrier inside the game so that if the player misses the platform, the game will restart from the beginning. 
