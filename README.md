@@ -11,7 +11,7 @@ The only way I could solve this problem was to go onto YouTube and the official 
 # 10/10/2023
 
 Problem
-A problem I have encountered in making my first bit of code for my character's movement is that the screen mouse will not mount to the centre of the screen and is completely visible. I have had a look around at some people code online; however, I have not been able to solve the problem, so one way I will try and solve this problem is by asking around in class and see if people in class can point me in the correct direction
+A problem I have encountered in making my first bit of code for my character's movement is that the screen mouse will not mount to the centre of the screen and is completely visible. I have had a look around at some people's code online; however, I have not been able to solve the problem, so one way I will try and solve this problem is by asking around in class and see if people in the class can point me in the correct direction.
 
 # 13/10/2023
 
@@ -35,7 +35,7 @@ I learnt how to code the player so that when you click on the W key, the player 
 
 # 03/11/2023
 
-I learnt how to make an opening and closing mechanic inside Unity to use inside my game.
+I learned how to make an opening and closing mechanic inside Unity for my game.
 
 # 05/11/2023
 
@@ -51,8 +51,12 @@ I am having a problem with my code so that when an enemy is inside the game, and
 # 14/11/2023
 
 I was having a problem with my door opening and closing. What was happening was I would jump over the enemy, pick up the key, and try and open the door; it wouldn't move, and what I didn't realise was that because I had two collisions on my player, it was registering as if the key was picking up the key twice so it was opening and closing the door at the same time.
-So, I had to add some code to the key behaviour script to make it only pick up the key once.
+So, I had to add some code to the key behaviour script to make it pick up the key only once.
 
 # 21/11/2023
 
-using some tutorials online I was able to create a title screen for my game with a working play button and a button that could take you to the option menu and then back to the main menu screen
+Using some tutorials online, I created a title screen for my game with a working play button and a button that could take you to the options menu and then back to the main menu screen.
+
+# 25/11/2023
+
+I tried to create a pause menu; however, when I did, none of my buttons worked as intended. 
