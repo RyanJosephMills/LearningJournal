@@ -50,7 +50,9 @@ I am having a problem with my code so that when an enemy is inside the game, and
 
 # 14/11/2023
 
-I was having a problem with my door opening and closing. What was happening was I would jump over the enemy, pick up the key, and try and open the door; it wouldn't move, and what I didn't realise was that because I had two collisions on my player, it was registering as if the key was picking up the key twice so it was opening and closing the door at the same time.
+I was having a problem with my door opening and closing. 
+
+What was happening was I would jump over the enemy, pick up the key, and try and open the door; it wouldn't move, and what I didn't realise was that because I had two collisions on my player, it was registering as if the key was picking up the key twice so it was opening and closing the door at the same time.
 So, I had to add some code to the key behaviour script to make it pick up the key only once.
 
 # 21/11/2023
