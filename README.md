@@ -67,9 +67,11 @@ I created a Moving platform using the enemy movement code, which works similarly
 # 28/11/2023
 
 I have a problem with my platform code.
+
 The problem that I have with it is when my character makes contact with the platform, it gets stuck to the platform, and my character will now move with the platform. I can only get away if I restart the game. I need to look at the code and see what is wrong.
 
 # 01/12/2023
 
 I have figured out what is wrong with my Platform Code.
-The problem with the code was I had two different types of code. The first bit of code was on collision, which means that it was the objects as a whole instead of the box collision, so I needed to change it to an on-trigger enter 2D, and that is the reason why it wouldn't break away as the other bit of code was an on trigger exit. It neededs to make contact with the thing that this code was assigned to.
+
+The problem with the code was I had two different types of code. The first bit of code was on collision, which means that it was the objects as a whole instead of the box collision, so I needed to change it to an on-trigger enter 2D, and that is the reason why it wouldn't break away as the other bit of code was an on trigger exit. It needs to make contact with the thing that this code was assigned to.
