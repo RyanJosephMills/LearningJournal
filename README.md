@@ -70,10 +70,20 @@ I created a Moving platform using the enemy movement code, which works similarly
 
 I have a problem with my platform code.
 
-The problem that I have with it is when my character makes contact with the platform, it gets stuck to the platform, and my character will now move with the platform. I can only get away if I restart the game. I need to look at the code and see what is wrong.
+My problem with it is when my character makes contact with the platform, it gets stuck to the platform, and my character will now move with the platform. I can only get away if I restart the game. I need to look at the code and see what is wrong.
 
 # 01/12/2023
 
 I have figured out what is wrong with my Platform Code.
 
 The problem with the code was I had two different types of code. The first bit of code was on collision, which means that it was the objects as a whole instead of the box collision, so I needed to change it to an on-trigger enter 2D, and that is the reason why it wouldn't break away as the other bit of code was an on trigger exit. It needs to make contact with the thing that this code was assigned to.
+
+# 05/12/2023
+
+I learned how to create a Pause Menu with working buttons to resume the game, return to the main menu, and finally quit the game.
+
+# 05/12/2023
+
+I had a problem with the Pause menu that I made.
+What would happen is when I pause the game, everything freezes; however, the game music would continue playing.
+All I needed to do was go inside the pause menu code and refer to the music source I wanted to Freeze. Then, inside the Key buttons, you must put music.play under resume and music.Pause under Pause
