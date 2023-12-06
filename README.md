@@ -82,6 +82,9 @@ The problem with the code was I had two different types of code. The first bit o
 
 I learned how to create a Pause Menu with working buttons to resume the game, return to the main menu, and finally quit the game.
 
+![image](https://github.com/RyanJosephMills/LearningJournal/assets/146854317/08bf0070-4d9c-4e84-affd-c8e59f7e126a)
+
+
 # 05/12/2023
 
 I had a problem with the Pause menu that I made.
