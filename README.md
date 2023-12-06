@@ -88,3 +88,11 @@ I had a problem with the Pause menu that I made.
 
 What would happen is when I pause the game, everything freezes; however, the game music would continue playing.
 All I needed to do was go inside the pause menu code and refer to the music source I wanted to Freeze. Then, inside the Key buttons, you must put music.play under resume and music.Pause under Pause.
+
+# 06/12/2023
+
+Another problem with my pause menu is when I would click on the Main Menu button to take me to the Main menu and then click the Play game into my game, the game would still be frozen.
+
+To fix this, I needed to put the same code that I had for when I would click the escape button where it would unfreeze and the game would continue.
+
+![image](https://github.com/RyanJosephMills/LearningJournal/assets/146854317/faedfa9b-55d7-41ac-880f-3b8d3fe33b32)
