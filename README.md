@@ -11,6 +11,7 @@ The only way I could solve this problem was to go onto YouTube and the official 
 # 10/10/2023
 
 Problem
+
 A problem I have encountered in making my first bit of code for my character's movement is that the screen mouse will not mount to the centre of the screen and is completely visible. I have had a look around at some people's code online; however, I have not been able to solve the problem, so one way I will try and solve this problem is by asking around in class and see if people in the class can point me in the correct direction.
 
 # 13/10/2023
