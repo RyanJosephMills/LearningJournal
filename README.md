@@ -64,6 +64,11 @@ Using some tutorials online, I created a title screen for my game with a working
 
 I tried to create a pause menu; however, when I did, none of my buttons worked as intended.
 
+# 26/11/2023
+
+I have managed to fix my pause menu problem.
+The issue that I was having was that I didn't have an Event System in the hierarchy, so without that, I wasn't able to click the button
+
 # 27/11/2023
 I created a Moving platform using the enemy movement code, which works similarly.
 
