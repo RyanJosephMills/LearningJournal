@@ -36,7 +36,11 @@ I learnt how to code the player so that when you click on the W key, the player 
 
 # 03/11/2023
 
-I learned how to make an opening and closing mechanic inside Unity for my game.
+I learned how to make an opening and closing door mechanic inside Unity for my game.
+
+However, the problem with this is when I click the button for the first time, it opens the door perfectly; however, if I click it again, my door will stay open.
+
+I will have to ask for help with this one.
 
 # 05/11/2023
 
@@ -76,11 +80,11 @@ I created a Moving platform using the enemy movement code, which works similarly
 
 I have a problem with my platform code.
 
-My problem with it is when my character makes contact with the platform, it gets stuck to the platform, and my character will now move with the platform. I can only get away if I restart the game. I need to look at the code and see what is wrong.
+My problem is that when my character makes contact with the platform, it gets stuck to the platform, and my character will now move with it. I can only get away if I restart the game. I need to look at the code and see what is wrong.
 
 # 01/12/2023
 
-I have figured out what is wrong with my Platform Code.
+I have figured out what needs to be fixed with my Platform Code.
 
 The problem with the code was I had two different types of code. The first bit of code was on collision, which means that it was the objects as a whole instead of the box collision, so I needed to change it to an on-trigger enter 2D, and that is the reason why it wouldn't break away as the other bit of code was an on trigger exit. It needs to make contact with the thing that this code was assigned to.
 
